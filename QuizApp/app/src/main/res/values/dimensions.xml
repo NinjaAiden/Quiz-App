@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_h">16dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSizeTitle">24sp</dimen>
+    <dimen name="paddingR">8dp</dimen>
+    <dimen name="leftMargin">16dp</dimen>
+    <dimen name="marginTop">16dp</dimen>
+    <dimen name="marginBottom">8dp</dimen>
+    <dimen name="paddingV">8dp</dimen>
+</resources>

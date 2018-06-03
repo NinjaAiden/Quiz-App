@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title">How well do you know Final Fantasy?</string>
+    <string name="question1">Question 1:\nWhich Final Fantasy was the first 3D game of the franchise?</string>
+    <string name="question2">Question 2:\nWhy are the games called Final Fantasy?</string>
+    <string name="question3">Question 3:\nWhich villain came the closest to accomplishing his goals?</string>
+    <string name="question4">Question 4:\nWhich Final Fantasy was the first to introduce the Active Time Battle (ATB) gauge?</string>
+    <string name="question5">Question 5:\nWhat are the official mascots of Final Fantasy?</string>
+    <string name="question6">Question 6:\nWhat is the name of the talented engineer who is featured in every game since the second?</string>
+    <string name="Why1">Because the first game saved the studio</string>
+    <string name="Why2">To trick people into buying</string>
+    <string name="Why3">It sounded cool</string>
+    <string name="villain1">Kefka (FF6)</string>
+    <string name="villain2">Sephiroth (FF7)</string>
+    <string name="villain3">Seymour (FF10)</string>
+    <string name="mascot1">Moogles</string>
+    <string name="mascot2">Cactuars</string>
+    <string name="mascot3">Chococobos</string>
+</resources>
